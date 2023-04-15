@@ -13,7 +13,7 @@
         <module>mapper</module>
         <module>service</module>
         <module>api</module>
-        <module>generator</module>
+<!--        <module>generator</module>-->
     </modules>
 
     <!--

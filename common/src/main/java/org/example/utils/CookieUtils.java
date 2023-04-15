@@ -14,12 +14,7 @@ import java.net.URLEncoder;
 /**
  * 
  * @Title: CookieUtils.java
- * @Package com.imooc.utils
  * @Description: Cookie 工具类
- * Copyright: Copyright (c)
- * Company: www.imooc.com
- *
- * @author imooc
  * @version V1.0
  */
 public final class CookieUtils {

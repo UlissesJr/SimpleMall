@@ -10,7 +10,7 @@
 
         <!-- 通用mapper所在目录 -->
         <plugin type="tk.mybatis.mapper.generator.MapperPlugin">
-            <property name="mappers" value="org.example.my.mapper.MyMapper"/>
+            <property name="mappers" value="org.example.generate.mapper.MyMapper"/>
         </plugin>
 
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"

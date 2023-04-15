@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-package org.example.my.mapper;
+package org.example.generate.mapper;
 
 import tk.mybatis.mapper.common.Mapper;
 import tk.mybatis.mapper.common.MySqlMapper;
