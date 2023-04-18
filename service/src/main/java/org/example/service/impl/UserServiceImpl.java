@@ -33,11 +33,8 @@ public class UserServiceImpl implements UserService {
 
         Example userExample = new Example(Users.class);
         Example.Criteria userCriteria = userExample.createCriteria();
-
         userCriteria.andEqualTo("username", username);
-
         Users result = usersMapper.selectOneByExample(userExample);
-
         return result == null ? false : true;
     }
 
